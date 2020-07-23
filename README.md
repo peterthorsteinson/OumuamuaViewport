@@ -8,5 +8,6 @@ The URL of the main project page is
 [https://github.com/peterthorsteinson/Oumuamua](https://github.com/peterthorsteinson/Oumuamua)
 
 ### Tumbling Oumuamua Asteroid in Unity3D WebGL
-[GitHib](https://peterthorsteinson.github.io/index.html)
+[GitHub Repo](https://peterthorsteinson.github.io/index.html)
+
 [![YouTube](http://img.youtube.com/vi/oNx4gZVAZOI/0.jpg)](http://www.youtube.com/watch?v=oNx4gZVAZOI)
